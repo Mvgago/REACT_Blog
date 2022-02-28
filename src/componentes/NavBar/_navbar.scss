@@ -1,0 +1,13 @@
+.nav-bar {
+    background-color: cadetblue;
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    color: white;
+    align-items: center;
+
+    li {
+        margin-right: 30px;
+    }
+}
